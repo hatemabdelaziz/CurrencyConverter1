@@ -1,8 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">CurrencyConverter1</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="menu_settings">Settings</string>
-
+    <string name="hello">Hello World, CurrencyConverterActivity!</string>
+        <string name="one">One</string>
+        <string name="in">In</string>
+            <string name="equal">Is Equal To</string>
+            <string name="result">Click Calculate for Result</string>
+            <string name="calculate">Calculate</string>
+            
+    <string name="app_name">CurrencyConverter</string>
+    <string-array name="name">
+        <item >Indian Rupee</item>
+        <item >US Dollar</item>
+        <item >European Union Euro</item>
+        <item >Canadian Dollar</item>
+        <item >Australian Dollar</item>
+        <item >Singapore Dollar</item>
+    </string-array>
+    <string-array name="value">
+        <item >INR</item>
+        <item >USD</item>
+        <item >EUR</item>
+        <item >CAD</item>
+        <item >AUD</item>
+        <item >SGD</item>
+    </string-array>
 </resources>
